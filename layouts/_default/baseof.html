@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>{{ .Site.Title }}</title>
+		<link rel="stylesheet" href="{{ .Site.BaseURL }}main.css"/>
+	</head>
+	<body>
+		<main>
+			<header>
+				<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+			</header>
+			{{ block "content" . }}{{ end }}
+			<div class="spacer"></div>
+			<footer>
+				<span>Edit this site <a href="https://github.com/umn-plseminar/umn-plseminar.github.io">on GitHub</a></span>
+				<span>asdf</span>
+			</footer>
+		</main>
+	</body>
+</html>
