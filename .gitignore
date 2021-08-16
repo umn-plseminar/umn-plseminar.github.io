@@ -1,0 +1,7 @@
+.*
+*~
+!.envrc
+!.git*
+
+/public/
+/result
