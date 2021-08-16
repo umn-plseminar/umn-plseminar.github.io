@@ -11,6 +11,10 @@
       let pkgs = nixpkgs.legacyPackages.${system};
       in rec {
         defaultPackage = packages.site;
+        devShell = pkgs.mkShell {
+          packages = [ pkgs.ghp-import ];
+          inputsFrom = [ defaultPackage ];
+        };
         packages.site = pkgs.stdenvNoCC.mkDerivation {
           name = "umn-plseminar.github.io";
           src = pkgs.nix-gitignore.gitignoreSource [ ] ./.;
