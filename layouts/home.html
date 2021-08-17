@@ -1,16 +1,12 @@
 {{- define "content" -}}
 
+{{ .Content }}
+
 <section>
-	<div class="title">
-		<h2>title</h2>
-	</div>
-	<div class="content">
-		content
+	<div class="section-title"><h2>Calendar</h2></div>
+	<div class="section-content" style="padding: 0;">
+		<iframe src="https://calendar.google.com/calendar/embed?src=pe2p4odk7kfpetg6c0s4q9f7jk%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0; height: 600px; width: 100%;" frameborder="0" scrolling="no"></iframe>
 	</div>
 </section>
-
-{{ with partial "partials/section.html" "calendar" }}
-	calendar content
-{{ end }}
 
 {{- end -}}

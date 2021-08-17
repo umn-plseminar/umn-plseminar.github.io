@@ -11,8 +11,8 @@ body {
 main {
 	display: flex;
 	flex-direction: column;
-	height: calc(100vh - 2rem);
 	max-width: 50rem;
+	min-height: calc(100vh - 2rem);
 	width: 100%;
 }
 
@@ -21,7 +21,7 @@ header, section, footer {
 	border: 1px solid black;
 }
 header, section { margin-bottom: 0.5rem; }
-header, section > div.content, footer { padding: 0.5rem; }
+header, .section-content, footer { padding: 0.5rem; }
 
 header > h1 {
 	margin: 0;
@@ -30,13 +30,13 @@ header > h1 {
 header a { color: black; }
 
 section { padding: 0; }
-section > div.title {
+.section-title {
 	border-bottom: 1px solid black;
 	margin: 0;
 	padding: 0.25rem;
 }
-section > div.content { background-color: #f0f0f0; }
-section > div.title > h2 { margin: 0; }
+.section-content { background-color: #f0f0f0; }
+.section-title > h2 { margin: 0; }
 
 footer {
 	display: flex;
@@ -56,3 +56,8 @@ h3 { font-size: 1.25rem; }
 h4 { font-size: 1.125rem; }
 h5 { font-size: 1.1rem; }
 h6 { font-size: 1rem; }
+
+p {
+	margin: 0;
+	padding: 0.5rem 0;
+}
