@@ -10,10 +10,17 @@
 		<main>
 			<header>
 				<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+				<nav>
+					<a href="{{ (.GetPage "/_index.md").Permalink }}">Home</a>
+					<a href="{{ (.GetPage "/books.md").Permalink }}">Books</a>
+					<a href="{{ (.GetPage "/news/_index.md").Permalink }}">News</a>
+					<a href="{{ .Site.BaseURL }}">Mailing List</a>
+				</nav>
 			</header>
 			{{ block "content" . }}{{ end }}
 			<div class="spacer"></div>
 			<footer>
+				<span>Content licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a></span>
 				<span>Edit this site <a href="https://github.com/umn-plseminar/umn-plseminar.github.io">on GitHub</a></span>
 				<span>Last modified on {{ .Lastmod.Format "January 2, 2006" }}</span>
 			</footer>

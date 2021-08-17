@@ -1,0 +1,12 @@
+{{- define "content" -}}
+
+<section>
+	<div class="section-title news-title-bar">
+		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+		<div class="spacer"></div>
+		<span class="news-date">{{ .PublishDate.Format "January 2, 2006" }}</span>
+	</div>
+	<div class="section-content">{{ .Content }}</div>
+</section>
+
+{{- end -}}

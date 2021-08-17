@@ -21,30 +21,57 @@ header, section, footer {
 	border: 1px solid black;
 }
 header, section { margin-bottom: 0.5rem; }
-header, .section-content, footer { padding: 0.5rem; }
+.section-content, footer { padding: 0.5rem; }
+header > nav, footer {
+	display: flex;
+	font-size: 0.75rem;
+	justify-content: space-around;
+}
 
+header a { color: black; }
 header > h1 {
-	margin: 0;
+	margin: 0.5rem;
 	text-align: center;
 }
-header a { color: black; }
+header > nav {
+	border-top: 1px solid black;
+	display: flex;
+}
+header > nav > a {
+	border-left: 1px solid black;
+	color: black;
+	flex-grow: 1;
+	padding: 0.25rem;
+	text-align: center;
+}
+header > nav > a:first-child { border-left: 0; }
 
 section { padding: 0; }
 .section-title {
-	border-bottom: 1px solid black;
 	margin: 0;
 	padding: 0.25rem;
 }
-.section-content { background-color: #f0f0f0; }
-.section-title > h2 { margin: 0; }
-
-footer {
-	display: flex;
-	font-size: 0.75rem;
-	justify-content: space-evenly;
+.section-content {
+	background-color: #f0f0f0;
+	border-top: 1px solid black;
 }
+.section-title > h2 { margin: 0; }
+.section-title a { color: black; }
 
 div.spacer { flex-grow: 1; }
+
+.news-title-bar {
+	display: flex;
+	margin-bottom: 0.25rem;
+}
+.news-title { 
+	color: black;
+	font-size: 1.25rem;
+}
+.news-date {
+	align-items: center;
+	display: inline-flex;
+}
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }

@@ -2,13 +2,19 @@
 layout = "sectioned"
 +++
 
+{{< section "Books" >}}
+
+This page has things, TODO
+
+{{< /section >}}
+
 {{< section "Books we might want to read in the future" >}}
 
 - [Abella: A System for Reasoning about Relational Specifications](https://jfr.unibo.it/article/view/4650)
   - Baelde, Chaudhuri, Gacek, Miller, Nadathur, Tiu, and Wang 2014
   - A tutorial for Abella.
   - I guess this is kinda a paper? It has chapters, so I'm putting it here.
-  - 89pgs, 9chs.
+  - 9ch, 89pgs.
 - Algebra of Programming
   - Bird and de Moor 1997
   - BMF/Squiggol
@@ -30,9 +36,10 @@ layout = "sectioned"
   - Coq book getting to the nice PL stuff sooner than SF
   - Open source! (CC and BSD)
   - 19ch, online (as of May 2021).
-- An Introduction to Array Programming in Klong
+- [An Introduction to Array Programming in Klong](http://t3x.org/klong/book.html)
+  - Holm 2018
   - Array programming as in APL, J, K, or Q.
-  - [Site](http://t3x.org/klong/book.html)
+  - [Sample](http://t3x.org/klong/ap-excerpt.pdf)
   - 3ch, 100pgs.
 - Lisp in Small Pieces
   - Queinnec 1994
@@ -59,9 +66,10 @@ layout = "sectioned"
 - [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/)
   - Jones, Gomard, and Sestoft 1999
   - What it says on the tin.
+  - Implements very cool programs in surprisingly little code.
   - 18ch, 425pgs.
 - [Pharo by Example](https://github.com/SquareBracketAssociates/PharoByExample80)
-  - Various, 2021/Ongoing
+  - Various, Ongoing
   - Open source! (CC-BY-SA)
   - [PDF](https://github.com/SquareBracketAssociates/PharoByExample80/releases/download/continuous/PBE8-wip.pdf)
   - 17ch, 312pgs (as of May 2021).
@@ -211,38 +219,43 @@ layout = "sectioned"
 
 {{< section "Things we've done in the past" >}}
 
-- Seven Sketches in Compositionality
+- [Seven Sketches in Compositionality](https://arxiv.org/abs/1803.05316)
   - Fong and Spivak 2019
   - Category theory book where the examples are gentler than other books we've tried
   - [PDF](https://arxiv.org/pdf/1803.05316.pdf)
   - 7ch, 353pgs.
   - Read May 2021 thru Aug 2021
-- The Art of Prolog
+- [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition)
   - Sterling and Shapiro 1994
   - A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.
-  - 552pgs, 24ch.
+  - 24ch, 552pgs.
   - Read Sept 2020 thru April 2021
-- Logical Foundations
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
   - Pierce et al Ongoing
   - The first of "the" Coq for PLT book series, Software Foundations
-  - [Site](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
   - 17ch
   - Read Jan 2020 thru July 2020
-
-- Type Driven Development with Idris
-  - TODO
+- [Type Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+  - Brady 2017
+  - An introduction to dependently typed programming in Idris.
+  - 15ch, 480pgs
   - Read Sep 2019 thru Jan 2020
-
-- The Little Typer
-  - TODO
+- [The Little Typer](https://thelittletyper.com/)
+  - Friedman and Christiansen 2018
+  - An introduction to dependent types with Pie.
+  - 16ch, 242pgs
   - Read July 2019 thru Sep 2019
-
-- Category Theory in Context
-  - TODO
+- [Category Theory in Context](https://math.jhu.edu/~eriehl/context/)
+  - Riehl 2016
+  - The first category book we tried. It didn't go well. (Written for mathematicians, not programmers!)
+  - 6ch, 272pgs
   - Failed to read, May 2019 thru July 2019
-
-- Types and Programming Languages
-  - TODO
+- [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
+  - Pierce 2002
+  - A very solid introduction to type systems for lambda calculi (including ones with object-oriented extensions) and programming language theory.
+  - Introduces common notation used in PL papers very well.
+  - This is probably worth doing every few years!
+  - 32ch, 648pgs
   - Read Sep 2017 thru July 2018
 
 {{< /section >}}

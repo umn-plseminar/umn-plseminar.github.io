@@ -1,0 +1,20 @@
+{{- define "content" -}}
+
+{{- range first 5 (.GetPage "/news").Pages.ByPublishDate -}}
+<section>
+	<div class="section-title news-title-bar">
+		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+		<div class="spacer"></div>
+		<span class="news-date">{{ .PublishDate.Format "January 2, 2006" }}</span>
+	</div>
+	<div class="section-content">
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .RelPermalink }}">More...</a>
+		{{ end }}
+	</div>
+</section>
+{{- end -}}
+
+
+{{- end -}}
