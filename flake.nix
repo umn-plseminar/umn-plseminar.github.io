@@ -12,7 +12,7 @@
       in rec {
         defaultPackage = packages.site;
         devShell = pkgs.mkShell {
-          packages = [ pkgs.ghp-import ];
+          packages = [ pkgs.ghp-import pkgs.lychee ];
           inputsFrom = [ defaultPackage ];
         };
         packages.site = pkgs.stdenvNoCC.mkDerivation {
