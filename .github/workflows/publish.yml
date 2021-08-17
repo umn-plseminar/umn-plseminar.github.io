@@ -11,6 +11,6 @@ jobs:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: |
         SITE=$(nix-build --no-out-link -A packages.x86_64-linux.site)
-        lychee $SITE/**/*.html
+        nix-shell --run "lychee $SITE/**/*.html"
         nix-shell --run "ghp-import -m \"Automatic update\" \"$SITE\""
         git push --force origin gh-pages:gh-pages
