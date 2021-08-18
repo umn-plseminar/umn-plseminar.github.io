@@ -1,6 +1,6 @@
 {{- define "content" -}}
 
-{{- range first 5 (.GetPage "/news").Pages.ByPublishDate -}}
+{{- range first 5 (.GetPage "/news").Pages.ByPublishDate.Reverse -}}
 <section>
 	<div class="section-title news-title-bar">
 		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

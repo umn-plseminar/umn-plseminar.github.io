@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "University of Minnesota Twin Cities PL Seminar"
 
 [taxonomies]
+
+[frontmatter]
+date = [":default", ":filename"]
+lastmod = [":default", ":filename"]
+publishDate = [":default", ":filename"]

@@ -4,7 +4,7 @@
 
 <section>
 	<div class="section-title"><h2 id="recent-news">Recent News</h2></div>
-		{{- range first 5 (.GetPage "/news").Pages.ByPublishDate -}}
+		{{- range first 5 (.GetPage "/news").Pages.ByPublishDate.Reverse -}}
 			<div class="section-content">
 				<div class="news-title-bar">
 					<a class="news-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
