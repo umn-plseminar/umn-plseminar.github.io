@@ -6,5 +6,5 @@ title = "University of Minnesota Twin Cities PL Seminar"
 
 [frontmatter]
 date = [":default", ":filename"]
-lastmod = [":default", ":filename"]
+lastmod = [":git"]
 publishDate = [":default", ":filename"]

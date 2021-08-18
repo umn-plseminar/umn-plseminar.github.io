@@ -7,7 +7,7 @@
     flake-utils.url = "github:numtide/flake-utils";
   };
   outputs = { self, flake-compat, flake-utils, nixpkgs, }:
-    flake-utils.lib.eachDefaultSystem (system:
+    flake-utils.lib.eachSystem [ "aarch64-linux" "x86_64-linux" ] (system:
       let pkgs = nixpkgs.legacyPackages.${system};
       in rec {
         defaultPackage = packages.site;
