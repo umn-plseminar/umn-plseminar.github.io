@@ -149,6 +149,9 @@ This page has things, TODO
   - Compares build systems and breaks them down into components, then prototypes new ones from the components
   - Covers Make, Excel, Shake, and Bazel
   - Revised + expanded version of original "Build systems a la carte" (Mokhov 2018)
+- [Call-by-Value is Dual to Call-by-Name](https://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
+  - Wadler 2003
+  - 13pgs.
 - Clowns to the Left of me, Jokers to the Right
   - McBride 2008
   - A generalization of zippers to allow representing a computation in progress.
