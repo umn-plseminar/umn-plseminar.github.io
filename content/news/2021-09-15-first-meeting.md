@@ -8,7 +8,7 @@ title = "First Meeting"
 - If you want to attend via Zoom, the link is [here][zoom].
 - There's a calendar event [here][event], and the group calendar is currently [here](https://umn-plseminar.github.io/#calendar).
 
-<!-- more -->
+<!--more-->
 
 [event]: https://calendar.google.com/event?action=TEMPLATE&tmeid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTA5MjNUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&tmsrc=pe2p4odk7kfpetg6c0s4q9f7jk%40group.calendar.google.com&scp=ALL
 [pdf]: https://www.cs.cmu.edu/~rwh/papers/unreasonable/basl.pdf
