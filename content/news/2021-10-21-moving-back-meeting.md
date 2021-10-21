@@ -1,5 +1,5 @@
 +++
-title = "2021-10-21 Meeting: Moving back to 2021-10-28
+title = "2021-10-21 Meeting: Moving back to 2021-10-28"
 +++
 
 Since the paper is a bit dense, we're moving back the meeting to next week.
