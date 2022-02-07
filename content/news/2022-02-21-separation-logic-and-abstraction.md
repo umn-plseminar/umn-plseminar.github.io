@@ -9,5 +9,5 @@ title = "2022-02-21 Meeting: Separation Logic and Abstraction"
 
 <!--more-->
 
-[event]: https://calendar.google.com/calendar/event?eid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTEwMjFUMjA1MDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&ctz=America/Chicago
+[event]: https://www.google.com/calendar/event?eid=cDVhdm5nZjBvYzF2a2Q2MnVqcTg1cWJrMjdfMjAyMjAyMjFUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&ctz=America/Chicago
 [pdf]: https://dl.acm.org/doi/pdf/10.1145/1047659.1040326
