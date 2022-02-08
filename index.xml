@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Minnesota Twin Cities PL Seminar</title>
+    <link>https://umn-plseminar.github.io/</link>
+    <description>Recent content on University of Minnesota Twin Cities PL Seminar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://umn-plseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-02-21 Meeting: Separation Logic and Abstraction</title>
+      <link>https://umn-plseminar.github.io/news/separation-logic-and-abstraction/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/separation-logic-and-abstraction/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 2:30pm to 4:00 on Monday, 2022-02-21.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Separation Logic and Abstraction&amp;rdquo; (&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/1047659.1040326&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 6-212 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;Since no one had been using our Zoom link last semester, we are not currently providing this option. However, if you are interested in attending remotely, please email the mailing list so that we can accomodate you!&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://www.google.com/calendar/event?eid=cDVhdm5nZjBvYzF2a2Q2MnVqcTg1cWJrMjdfMjAyMjAyMjFUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-10-21 Meeting: Moving back to 2021-11-04</title>
+      <link>https://umn-plseminar.github.io/news/moving-back-meeting/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/moving-back-meeting/</guid>
+      <description>&lt;p&gt;Since the paper is a bit dense, we&amp;rsquo;re moving back the meeting.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re also making a bit of a procedural change, to choose a paper for the next meeting at the meeting.
+This should avoid the situation where a paper is chosen late!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-10-21 Meeting: Sequent Calculus as a Compiler Intermediate Language</title>
+      <link>https://umn-plseminar.github.io/news/sequent-calculus-as-a-compiler-intermediate-language/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/sequent-calculus-as-a-compiler-intermediate-language/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 3:50pm to 5:00 on Thursday, 2021-10-21.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Sequent Calculus as a Compiler Intermediate Language&amp;rdquo; (&lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://umn.zoom.us/j/96543487339&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/calendar/event?eid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTEwMjFUMjA1MDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-10-07 Meeting</title>
+      <link>https://umn-plseminar.github.io/news/second-meeting/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/second-meeting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 3:50pm to 5:00 on Thursday, 2021-10-07.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Inadequacy of Computable Loop Invariants&amp;rdquo; (&lt;a href=&#34;https://web.eecs.umich.edu/~gurevich/Opera/146.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://umn.zoom.us/j/96543487339&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/calendar/event?eid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTEwMDdUMjA1MDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Meeting</title>
+      <link>https://umn-plseminar.github.io/news/first-meeting/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/first-meeting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 3:50pm to 5:00 on Thursday, 2021-09-23.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;On the Unusual Effectiveness of Logic in Computer Science&amp;rdquo; (&lt;a href=&#34;https://www.cs.cmu.edu/~rwh/papers/unreasonable/basl.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://us02web.zoom.us/j/84420107779?pwd=OG9SdmNUREczSmRjQTkwRVBqaGlzUT09&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/event?action=TEMPLATE&amp;amp;tmeid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTA5MjNUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;tmsrc=pe2p4odk7kfpetg6c0s4q9f7jk%40group.calendar.google.com&amp;amp;scp=ALL&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Book for Fall</title>
+      <link>https://umn-plseminar.github.io/news/choosing-a-book-for-fall/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/choosing-a-book-for-fall/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re on the last chapter of Seven Sketches in Compositionality, so it&amp;rsquo;s time to choose the book to start in the fall!
+The books are as listed on the &lt;a href=&#34;https://umn-plseminar.github.io/books/&#34;&gt;Books&lt;/a&gt; page of this site.
+If there&amp;rsquo;s a book or activity you&amp;rsquo;d like people to vote on that isn&amp;rsquo;t listed, send the list a mail with the title!&lt;/p&gt;
+&lt;p&gt;Vote &lt;a href=&#34;https://forms.gle/PtX4nZEtrbY935BA8&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;State your availability &lt;a href=&#34;https://www.when2meet.com/?12577345-J6XEz&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://umn-plseminar.github.io/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/books/</guid>
+      <description>Books This page has things, TODO   Books we might want to read in the future  Abella: A System for Reasoning about Relational Specifications  Baelde, Chaudhuri, Gacek, Miller, Nadathur, Tiu, and Wang 2014 A tutorial for Abella. I guess this is kinda a paper? It has chapters, so I&amp;rsquo;m putting it here. 9ch, 89pgs.   Algebra of Programming  Bird and de Moor 1997 BMF/Squiggol 10ch, 312pgs.</description>
+    </item>
+    
+  </channel>
+</rss>

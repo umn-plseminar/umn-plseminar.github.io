@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://umn-plseminar.github.io/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/separation-logic-and-abstraction/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/moving-back-meeting/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/sequent-calculus-as-a-compiler-intermediate-language/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/second-meeting/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/first-meeting/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/news/choosing-a-book-for-fall/</loc>
+  </url><url>
+    <loc>https://umn-plseminar.github.io/books/</loc>
+  </url>
+</urlset>
