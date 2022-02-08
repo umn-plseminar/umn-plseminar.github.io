@@ -19,8 +19,8 @@
           name = "umn-plseminar.github.io";
           src = pkgs.nix-gitignore.gitignoreSource [ ] ./.;
           nativeBuildInputs = [ pkgs.hugo ];
-          buildPhase = "hugo";
-          installPhase = "cp -r public $out";
+          buildPhase = "hugo -d $out -F";
+          installPhase = "true";
         };
       });
 }
