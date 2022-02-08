@@ -5,6 +5,7 @@ title = "2022-02-21 Meeting: Separation Logic and Abstraction"
 - We're meeting from 2:30pm to 4:00 on Monday, 2022-02-21.
 - We're planning to discuss "Separation Logic and Abstraction" ([pdf]).
 - If you want to attend in person, we have reserved Room 6-212 in Keller Hall.
+- Since no one had been using our Zoom link last semester, we are not currently providing this option. However, if you are interested in attending remotely, please email the mailing list so that we can accomodate you!
 - There's a calendar event [here][event], and the group calendar is currently [here](https://umn-plseminar.github.io/#calendar).
 
 <!--more-->
