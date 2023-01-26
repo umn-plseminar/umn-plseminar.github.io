@@ -1,5 +1,5 @@
 +++
-title = "2021-10-07 Meeting"
+title = "2021-10-07 Meeting: Inadequacy of Computable Loop Invariants"
 +++
 
 - We're meeting from 3:50pm to 5:00 on Thursday, 2021-10-07.

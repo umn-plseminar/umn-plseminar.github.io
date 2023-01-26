@@ -1,5 +1,5 @@
 +++
-title = "First Meeting"
+title = "2021-09-23 Meeting: On the Unusual Effectiveness of Logic in Computer Science"
 +++
 
 - We're meeting from 3:50pm to 5:00 on Thursday, 2021-09-23.
