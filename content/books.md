@@ -2,12 +2,6 @@
 layout = "sectioned"
 +++
 
-{{< section "Books" >}}
-
-This page has things, TODO
-
-{{< /section >}}
-
 {{< section "Books we might want to read in the future" >}}
 
 - [Abella: A System for Reasoning about Relational Specifications](https://jfr.unibo.it/article/view/4650)
@@ -109,11 +103,6 @@ This page has things, TODO
   - Written as a dialogue.
   - If we do this, there's a bunch of really cool miniKanren papers I'd like after, including a couple neat program-synthesis things.
   - 12ch, 169pgs.
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  - Klabnik, Nichols, Various 2019/Ongoing
-  - The standard book 
-  - Open source, [paper version here](https://nostarch.com/Rust2018)
-  - 20ch, online (as of May 2021).
 - [Software Abstractions](https://mitpress.mit.edu/books/software-abstractions-revised-edition)
   - Jackson 2011
   - The Alloy tutorial; [this talk](https://www.youtube.com/watch?v=FvNRlE4E9QQ) sold me on this being really cool.
@@ -211,7 +200,7 @@ This page has things, TODO
 
 {{< section "Things that are neither books nor papers" >}}
 
-- Nathan runs a Forth workshop
+- Nathan Ringo runs a Forth workshop
   - Probably something like, 2-3 weeks on learning the language, 1 week on a "metacircular" implementation, 1 week on bootstrapping, 2-3 weeks on advanced topics
 - OPLSS 2015 - Logical Relations
   - Video lectures about proving "difficult to prove" properties, e.g. strong normalization of STLC
@@ -222,6 +211,10 @@ This page has things, TODO
 
 {{< section "Things we've done in the past" >}}
 
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) [Sep 2022 thru Dec 2022]
+  - Klabnik and Nichols
+  - Online book
+  - 21ch
 - [Seven Sketches in Compositionality](https://arxiv.org/abs/1803.05316) [May 2021 thru Aug 2021]
   - Fong and Spivak 2019
   - Category theory book where the examples are gentler than other books we've tried

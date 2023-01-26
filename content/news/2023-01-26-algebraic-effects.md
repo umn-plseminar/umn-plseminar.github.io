@@ -1,5 +1,5 @@
 +++
-title = "2023-01-26 Talk: Algebraic effects"
+title = "2023-01-26 Talk: Algebraic Effects"
 +++
 
 - _Speaker:_ Nathan Guermond
