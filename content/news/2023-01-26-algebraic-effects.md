@@ -9,5 +9,6 @@ algebraic effects. I will give plenty of examples including how to use the OCaml
 interface for effects.
 - _Location:_ Keller 6-212
 - _Time:_ 1-2 pm
+- _Notes:_ available [here](https://github.com/nguermond/monads-and-algebraic-effects)
 
 <!--more-->
