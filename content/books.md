@@ -2,6 +2,46 @@
 layout = "sectioned"
 +++
 
+{{< section "Things we've done in the past" >}}
+
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) [Sep 2022 thru Dec 2022]
+  - Klabnik and Nichols
+  - Online book
+  - 21ch
+- [Seven Sketches in Compositionality](https://arxiv.org/abs/1803.05316) [May 2021 thru Aug 2021]
+  - Fong and Spivak 2019
+  - Category theory book where the examples are gentler than other books we've tried
+  - [PDF](https://arxiv.org/pdf/1803.05316.pdf)
+  - 7ch, 353pgs.
+- [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition) [Sept 2020 thru April 2021]
+  - Sterling and Shapiro 1994
+  - A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.
+  - 24ch, 552pgs.
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) [Jan 2020 thru July 2020]
+  - Pierce et al Ongoing
+  - The first of "the" Coq for PLT book series, Software Foundations
+  - 17ch
+- [Type Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris) [Sep 2019 thru Jan 2020]
+  - Brady 2017
+  - An introduction to dependently typed programming in Idris.
+  - 15ch, 480pgs
+- [The Little Typer](https://thelittletyper.com/) [July 2019 thru Sep 2019]
+  - Friedman and Christiansen 2018
+  - An introduction to dependent types with Pie.
+  - 16ch, 242pgs
+- [Category Theory in Context](https://math.jhu.edu/~eriehl/context/) [May 2019 thru July 2019 (gave up...)]
+  - Riehl 2016
+  - The first category book we tried. It didn't go well. (Written for mathematicians, not programmers!)
+  - 6ch, 272pgs
+- [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) [Sep 2017 thru July 2018]
+  - Pierce 2002
+  - A very solid introduction to type systems for lambda calculi (including ones with object-oriented extensions) and programming language theory.
+  - Introduces common notation used in PL papers very well.
+  - This is probably worth doing every few years!
+  - 32ch, 648pgs
+
+{{< /section >}}
+
 {{< section "Books we might want to read in the future" >}}
 
 - [Abella: A System for Reasoning about Relational Specifications](https://jfr.unibo.it/article/view/4650)
@@ -198,7 +238,7 @@ layout = "sectioned"
 
 {{< /section >}}
 
-{{< section "Things that are neither books nor papers" >}}
+{{< section "Other resources" >}}
 
 - Nathan Ringo runs a Forth workshop
   - Probably something like, 2-3 weeks on learning the language, 1 week on a "metacircular" implementation, 1 week on bootstrapping, 2-3 weeks on advanced topics
@@ -206,45 +246,5 @@ layout = "sectioned"
   - Video lectures about proving "difficult to prove" properties, e.g. strong normalization of STLC
   - [Info Site](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
   - [Videos](https://www.youtube.com/playlist?list=PLiHLLF-foEex7BOvMbrbUFC9XgU7fZW66)
-
-{{< /section >}}
-
-{{< section "Things we've done in the past" >}}
-
-- [The Rust Programming Language](https://doc.rust-lang.org/book/) [Sep 2022 thru Dec 2022]
-  - Klabnik and Nichols
-  - Online book
-  - 21ch
-- [Seven Sketches in Compositionality](https://arxiv.org/abs/1803.05316) [May 2021 thru Aug 2021]
-  - Fong and Spivak 2019
-  - Category theory book where the examples are gentler than other books we've tried
-  - [PDF](https://arxiv.org/pdf/1803.05316.pdf)
-  - 7ch, 353pgs.
-- [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition) [Sept 2020 thru April 2021]
-  - Sterling and Shapiro 1994
-  - A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.
-  - 24ch, 552pgs.
-- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) [Jan 2020 thru July 2020]
-  - Pierce et al Ongoing
-  - The first of "the" Coq for PLT book series, Software Foundations
-  - 17ch
-- [Type Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris) [Sep 2019 thru Jan 2020]
-  - Brady 2017
-  - An introduction to dependently typed programming in Idris.
-  - 15ch, 480pgs
-- [The Little Typer](https://thelittletyper.com/) [July 2019 thru Sep 2019]
-  - Friedman and Christiansen 2018
-  - An introduction to dependent types with Pie.
-  - 16ch, 242pgs
-- [Category Theory in Context](https://math.jhu.edu/~eriehl/context/) [May 2019 thru July 2019 (gave up...)]
-  - Riehl 2016
-  - The first category book we tried. It didn't go well. (Written for mathematicians, not programmers!)
-  - 6ch, 272pgs
-- [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) [Sep 2017 thru July 2018]
-  - Pierce 2002
-  - A very solid introduction to type systems for lambda calculi (including ones with object-oriented extensions) and programming language theory.
-  - Introduces common notation used in PL papers very well.
-  - This is probably worth doing every few years!
-  - 32ch, 648pgs
 
 {{< /section >}}
