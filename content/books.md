@@ -13,7 +13,7 @@ layout = "sectioned"
   - Category theory book where the examples are gentler than other books we've tried
   - [PDF](https://arxiv.org/pdf/1803.05316.pdf)
   - 7ch, 353pgs.
-- [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition) [Sept 2020 thru April 2021]
+- [The Art of Prolog](https://mitpress.mit.edu/9780262691635/the-art-of-prolog/) [Sept 2020 thru April 2021]
   - Sterling and Shapiro 1994
   - A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.
   - 24ch, 552pgs.
