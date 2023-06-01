@@ -1,5 +1,5 @@
 +++
-title = "2023-06-07 Talk: _Automated Reasoning for Cloud Computing_"
+title = "2023-06-07 Talk: Automated Reasoning for Cloud Computing"
 +++
 
 - _Speaker:_ Andrew Gacek
