@@ -4,6 +4,11 @@ layout = "sectioned"
 
 {{< section "Things we've done in the past" >}}
 
+- Term *Re*writing and *All That*
+  - Baader and Nipkow 1998
+  - An introduction to term rewriting systems.
+  - Contains SML code
+  - 11ch, 301pgs
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) [Sep 2022 thru Dec 2022]
   - Klabnik and Nichols
   - Online book
@@ -12,7 +17,7 @@ layout = "sectioned"
   - Fong and Spivak 2019
   - Category theory book where the examples are gentler than other books we've tried
   - [PDF](https://arxiv.org/pdf/1803.05316.pdf)
-  - 7ch, 353pgs.
+  - 7ch, 353pgs
 - [The Art of Prolog](https://mitpress.mit.edu/9780262691635/the-art-of-prolog/) [Sept 2020 thru April 2021]
   - Sterling and Shapiro 1994
   - A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.
@@ -131,12 +136,7 @@ layout = "sectioned"
 - Programming with Higher-Order Logic
   - Miller and Nadathur 2012
   - The λProlog book
-  - 11ch, 320pgs
-- Term *Re*writing and *All That*
-  - Baader and Nipkow 1998
-  - An introduction to term rewriting systems.
-  - Contains SML code
-  - 11ch, 301pgs
+  - 11ch, 320pgs.
 - [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer)
   - Friedman, Byrd, and Kiselyov 2005 (1st ed)
   - MiniKanren. Easier to implement than Prolog, not depth-first-search-by-default.
@@ -198,7 +198,7 @@ layout = "sectioned"
   - Proof-checked code in Haskell with a tasteful set of extensions (i.e., not like [this](https://twitter.com/edwinbrady/status/1163816732902883329)).
 - Hoopl: A Modular, Reusable Library for Dataflow Analysis and Tranformation
   - Ramsey 2010
-  - What it says on the tin, looks like.
+  - What it says on the tin.
   - 16 pgs.
 - Monad Transformers and Modular Algebraic Effects: What Binds Them Together
   - Schrijvers 2019
