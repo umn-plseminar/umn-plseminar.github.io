@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Minnesota Twin Cities PL Seminar</title>
+    <link>https://umn-plseminar.github.io/</link>
+    <description>Recent content on University of Minnesota Twin Cities PL Seminar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://umn-plseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-12 Talk: Automatic Differentiation via Effects and Handlers</title>
+      <link>https://umn-plseminar.github.io/news/auto-diff/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/auto-diff/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Title:&lt;/em&gt; Automatic Differentiation via Effects and Handlers in OCaml&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Jesse Sigal (University of Edinburgh)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 4:00-5:00 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-10-17 Talk: CompCert</title>
+      <link>https://umn-plseminar.github.io/news/compcert/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/compcert/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Topic:&lt;/em&gt; CompCert - A Formally Verified Optimizing Compiler&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Linglong Meng&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 4:00-5:00 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-10-03 Talk: A semantics for imprecise exceptions</title>
+      <link>https://umn-plseminar.github.io/news/imprecise/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/imprecise/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Simon Peyton Jones et al. A semantics for imprecise exceptions. ACM SIGPLAN Notices.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Nathan Ringo&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 4:00-5:00 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-03-27 Talk: Colimits in HoTT</title>
+      <link>https://umn-plseminar.github.io/news/colimits/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/colimits/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Perry Hart. Colimits in Homotopy Type Theory. Preprint.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Perry Hart&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 10:00-11:00 am&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-03-13 Talk: Finding models through graph saturation</title>
+      <link>https://umn-plseminar.github.io/news/graph-sat/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/graph-sat/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Sebastiaan Joosten. Finding models through graph saturation. Journal of Logical and Algebraic Methods in Programming.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Sebastiaan Joosten&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 5-212&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 10:00-11:00 am&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-02-14 Talk: Unification of lambda-terms</title>
+      <link>https://umn-plseminar.github.io/news/unification/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/unification/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Dale Miller and Gopalan Nadathur. Programming with Higher-Order Logic, Ch. 8.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Nathan Guermond&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 5-212&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 10:00-11:00 am&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-12-04 Discussion: Parallel prefix computation</title>
+      <link>https://umn-plseminar.github.io/news/pps/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/pps/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Janis Voigtländer. Much ado about two (pearl): a pearl on parallel prefix computation. SIGPLAN Not.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Zhuyang Wang&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Lind 316&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2:30-3:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-11-20 Discussion: Sharing trees for forwarding in attribute grammars</title>
+      <link>https://umn-plseminar.github.io/news/st/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/st/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Lucas Kramer and Eric Van Wyk. Sharing Trees and Contextual Information: Re-imagining Forwarding in Attribute Grammars. (SLE &amp;lsquo;23).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Lucas Kramer&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Lind 316&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2:30-3:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-11-06 Discussion: Meanings of logical constansts and justifications of logical laws</title>
+      <link>https://umn-plseminar.github.io/news/mlm/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/mlm/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Per Martin-Löf. &amp;ldquo;On the meanings of the logical constants and the justifications of the logical laws&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Isaac Velasquez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Lind 316&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2:30-3:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-10-09 Discussion: Nanopass Attribute Grammars</title>
+      <link>https://umn-plseminar.github.io/news/npc/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/npc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Nathan Ringo, Lucas Kramer, and Eric Van Wyk. Nanopass Attribute Grammars. (SLE &amp;lsquo;23).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Lind 316&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2:30-3:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-09-25 Discussion: Pattern Matching Without K</title>
+      <link>https://umn-plseminar.github.io/news/ak/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/ak/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Paper:&lt;/em&gt; Jesper Cockx, Dominique Devriese, and Frank Piessens. Pattern matching without K. (ICFP &amp;lsquo;14).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Lind 316&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2:30-3:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-08-31 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-6/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-6/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Sections 6.1-6.3&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-08-17 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-5/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-5/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Sections 5.2-5.3&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-08-03 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-4/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Sections 4.5-4.8 and Section 5.1&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-07-20 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-3/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-3/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Section 3.1 and Sections 4.1-4.4&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-06-22 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-2/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Chapter 2&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-06-08 Meeting: Term Rewriting and All That</title>
+      <link>https://umn-plseminar.github.io/news/trat-1/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/trat-1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Reading:&lt;/em&gt; Preface and Chapter 1&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225 (in person) and Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 2-3 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://www.cambridge.org/core/books/term-rewriting-and-all-that/71768055278D0DEF4FFC74722DE0D707&#34;&gt;the Cambridge website for the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-06-07 Talk: Automated Reasoning for Cloud Computing</title>
+      <link>https://umn-plseminar.github.io/news/andrew-talk/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/andrew-talk/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Andrew Gacek (AWS)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 3-115&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Date:&lt;/em&gt; Wednesday, June 7, 2023&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1:30-2:30 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-04-26 Talk: Characterizing inductive and coinductive types in HoTT</title>
+      <link>https://umn-plseminar.github.io/news/characterizing-inductive-and-coinductive-types-in-hott/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/characterizing-inductive-and-coinductive-types-in-hott/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Perry Hart&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; In this talk, we describe general inductive types in homotopy type theory as initial algebras of suitable
+endofunctors on the universe of types. We then describe coinductive types as terminal coalgebras of
+such endofunctors.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-03-29 Talk: The complexity of type inference for System F</title>
+      <link>https://umn-plseminar.github.io/news/the-complexity-of-type-inference-for-system-f/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/the-complexity-of-type-inference-for-system-f/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Perry Hart&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; In 1991, Henglein and Mairson proved that recognizing typable terms in System F requires
+exponential time. They also proved that the complexity of this problem for higher-order extensions of
+System F is even worse. This talk presents a summary of their fascinating proof of these results.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://citeseerx.ist.psu.edu/document?repid=rep1&amp;amp;type=pdf&amp;amp;doi=ad4f4111f859578a648cba1b7a3170dc1b7e5f01&#34;&gt;The complexity of type inference for higher-order typed lambda calculus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-03-15 Talk: Language Definition Using Attribute Grammars</title>
+      <link>https://umn-plseminar.github.io/news/language-definition-using-attribute-grammars/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/language-definition-using-attribute-grammars/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Dawn Michaelson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; Attribute grammars, originally presented by Donald Knuth in 1968, can be used to specify the semantics of languages by associating semantic attributes with nodes in a syntax tree.  This talk will cover the basics of using attribute grammars to specify languages.  We will also discuss how attribute computation takes place when using an attribute grammar as a runnable language specification.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-03-01 Talk: Type Fusion</title>
+      <link>https://umn-plseminar.github.io/news/type-fusion/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/type-fusion/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Zhuyang Wang&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; When are two types isomorphic? Type fusion provides us a convenient way to prove the isomorphism between two (co)inductive types. In this talk, I&amp;rsquo;ll first introduce the basic rules to reason isomorphically on types. Then I&amp;rsquo;ll show the type fusion law(s) and a few examples which would be hard to prove without these laws. If time permits, we could go through the proof of the laws.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; See &lt;a href=&#34;https://dl.acm.org/doi/10.1145/1863495.1863507&#34;&gt;Reason isomorphically!&lt;/a&gt; and &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-642-17796-5_6&#34;&gt;Type Fusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-02-09 Talk: Logical Relations (continued)</title>
+      <link>https://umn-plseminar.github.io/news/logical-relations/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/logical-relations/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Perry Hart&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; We&amp;rsquo;ll look at the second example of logical relations that the previous talk was meant to cover. Specifically, we show that every polymorphic function that has the same type signature as the identity is actually equivalent to the identity.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 6-212&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-02-01 Talk: Logical Relations</title>
+      <link>https://umn-plseminar.github.io/news/logical-relations/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/logical-relations/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Perry Hart&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; We introduce a method of proof called logical relations, which has been useful for proving fundamental properties of programming-inspired type systems. This talk will illustrate logical relations by looking at proofs of two such properties. The first is strong normalizability of STLC. The second is that in System F, every polymorphic function that has the same type signature as the identity is actually equivalent to the identity. Fortunately, logical relations provide us with accessible proofs of these properties.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 2-225&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-01-26 Talk: Algebraic Effects</title>
+      <link>https://umn-plseminar.github.io/news/algebraic-effects/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/algebraic-effects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Speaker:&lt;/em&gt; Nathan Guermond&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abstract:&lt;/em&gt; The goal will be twofold, firstly to understand how to design algebraic effect handlers
+to model effects, and secondly to understand the relationship between monads and
+algebraic effects. I will give plenty of examples including how to use the OCaml
+interface for effects.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Keller 6-212&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Time:&lt;/em&gt; 1-2 pm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Notes:&lt;/em&gt; available &lt;a href=&#34;https://github.com/nguermond/monads-and-algebraic-effects&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022-02-21 Meeting: Separation Logic and Abstraction</title>
+      <link>https://umn-plseminar.github.io/news/separation-logic-and-abstraction/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/separation-logic-and-abstraction/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 2:30pm to 4:00 on Monday, 2022-02-21.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Separation Logic and Abstraction&amp;rdquo; (&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/1047659.1040326&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 6-212 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;Since no one had been using our Zoom link last semester, we are not currently providing this option. However, if you are interested in attending remotely, please email the mailing list so that we can accomodate you!&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://www.google.com/calendar/event?eid=cDVhdm5nZjBvYzF2a2Q2MnVqcTg1cWJrMjdfMjAyMjAyMjFUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-10-21 Meeting: Sequent Calculus as a Compiler Intermediate Language</title>
+      <link>https://umn-plseminar.github.io/news/sequent-calculus-as-a-compiler-intermediate-language/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/sequent-calculus-as-a-compiler-intermediate-language/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Since the paper is dense, we&amp;rsquo;ve moved this meeting to 3:50pm to 5:00 on Thursday, &lt;strong&gt;2021-11-04&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Sequent Calculus as a Compiler Intermediate Language&amp;rdquo; (&lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://umn.zoom.us/j/96543487339&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/calendar/event?eid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTEwMjFUMjA1MDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-10-07 Meeting: Inadequacy of Computable Loop Invariants</title>
+      <link>https://umn-plseminar.github.io/news/second-meeting/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/second-meeting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 3:50pm to 5:00 on Thursday, 2021-10-07.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;Inadequacy of Computable Loop Invariants&amp;rdquo; (&lt;a href=&#34;https://web.eecs.umich.edu/~gurevich/Opera/146.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://umn.zoom.us/j/96543487339&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/calendar/event?eid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTEwMDdUMjA1MDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;ctz=America/Chicago&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-09-23 Meeting: On the Unusual Effectiveness of Logic in Computer Science</title>
+      <link>https://umn-plseminar.github.io/news/first-meeting/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/first-meeting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re meeting from 3:50pm to 5:00 on Thursday, 2021-09-23.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;re planning to discuss &amp;ldquo;On the Unusual Effectiveness of Logic in Computer Science&amp;rdquo; (&lt;a href=&#34;https://www.cs.cmu.edu/~rwh/papers/unreasonable/basl.pdf&#34;&gt;pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;If you want to attend in person, we have reserved Room 2-225 in Keller Hall.&lt;/li&gt;
+&lt;li&gt;If you want to attend via Zoom, the link is &lt;a href=&#34;https://us02web.zoom.us/j/84420107779?pwd=OG9SdmNUREczSmRjQTkwRVBqaGlzUT09&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s a calendar event &lt;a href=&#34;https://calendar.google.com/event?action=TEMPLATE&amp;amp;tmeid=cWQ4YzZkamxyaDlhZGQycWVkbWxmMHU3MThfMjAyMTA5MjNUMjAzMDAwWiBwZTJwNG9kazdrZnBldGc2YzBzNHE5Zjdqa0Bn&amp;amp;tmsrc=pe2p4odk7kfpetg6c0s4q9f7jk%40group.calendar.google.com&amp;amp;scp=ALL&#34;&gt;here&lt;/a&gt;, and the group calendar is currently &lt;a href=&#34;https://umn-plseminar.github.io/#calendar&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Book for Fall</title>
+      <link>https://umn-plseminar.github.io/news/choosing-a-book-for-fall/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/news/choosing-a-book-for-fall/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re on the last chapter of Seven Sketches in Compositionality, so it&amp;rsquo;s time to choose the book to start in the fall!
+The books are as listed on the &lt;a href=&#34;https://umn-plseminar.github.io/books/&#34;&gt;Books&lt;/a&gt; page of this site.
+If there&amp;rsquo;s a book or activity you&amp;rsquo;d like people to vote on that isn&amp;rsquo;t listed, send the list a mail with the title!&lt;/p&gt;
+&lt;p&gt;Vote &lt;a href=&#34;https://forms.gle/PtX4nZEtrbY935BA8&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;State your availability &lt;a href=&#34;https://www.when2meet.com/?12577345-J6XEz&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://umn-plseminar.github.io/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://umn-plseminar.github.io/books/</guid>
+      <description>Things we&amp;#39;ve done in the past  Term Rewriting and All That  Baader and Nipkow 1998 An introduction to term rewriting systems. Contains SML code 11ch, 301pgs   The Rust Programming Language [Sep 2022 thru Dec 2022]  Klabnik and Nichols Online book 21ch   Seven Sketches in Compositionality [May 2021 thru Aug 2021]  Fong and Spivak 2019 Category theory book where the examples are gentler than other books we&amp;rsquo;ve tried PDF 7ch, 353pgs   The Art of Prolog [Sept 2020 thru April 2021]  Sterling and Shapiro 1994 A book starting at Prolog basics, and getting up to cool metaprogramming tricks, including Prolog interpreters in Prolog, compilers and planners, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
